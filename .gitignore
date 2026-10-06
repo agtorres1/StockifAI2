@@ -1,0 +1,32 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Variables de entorno (usar .env.example)
+.env
+.env.*
+!.env.example
+
+# IDEs
+.idea/
+.vscode/
+!stockifai-frontend/.vscode/
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+~$*
+
+# Bases locales
+*.sqlite3
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
