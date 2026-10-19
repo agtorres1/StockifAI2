@@ -21,7 +21,7 @@
 
 En un taller o concesionario, tener demasiados repuestos inmoviliza plata y genera obsolescencia; tener pocos significa autos parados esperando una pieza. StockifAI ataca ese problema: centraliza el stock de uno o varios talleres, **predice cuántas unidades de cada repuesto se van a vender en las próximas 4 semanas** y genera alertas automáticas cuando hay riesgo de quiebre o exceso de stock.
 
-Proyecto final de la carrera **Ingeniería en Sistemas de Información — UTN [Facultad Regional]**, [año].
+Proyecto final de la carrera **Ingeniería en Sistemas de Información — UTN FRBA**, 2025.
 
 ## Funcionalidades
 
